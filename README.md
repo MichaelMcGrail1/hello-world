@@ -1,3 +1,3 @@
 # hello-world
 First Project
-My name is Michael.
+My name is Michael
